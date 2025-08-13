@@ -5,7 +5,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=atsaev&label=Просмотры+профиля&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
