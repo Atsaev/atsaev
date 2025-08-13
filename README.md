@@ -90,8 +90,8 @@ class BackendDeveloper:
 
 | **Технология** | **Прогресс** | **Статус** |
 |:---------------|:-------------|:-----------|
-| **Async Python** | ![Progress](https://img.shields.io/badge/Progress-35%25-blue) | 🟢 Изучаю |
-| **Microservices** | ![Progress](https://img.shields.io/badge/Progress-25%25-blue) | 🟡 В процессе |
+| **Async Python** | ![Прогресс](https://img.shields.io/badge/Progress-35%25-blue) | 🟢 Изучаю |
+| **Microservices** | ![Прогресс](https://img.shields.io/badge/Progress-25%25-blue) | 🟡 В процессе |
 
 </div>
 
@@ -122,7 +122,7 @@ Docker       ████████░░░░░░░░░░░░░░�
 
 ---
 
-### 🌐 **GitHub Pages**
+### 🌐 **GitHub Страницы**
 
 <div align="center">
   <a href="https://atsaev.github.io">
