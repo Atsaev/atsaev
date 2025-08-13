@@ -24,15 +24,15 @@ class BackendDeveloper:
         self.location = "Россия"
         self.email = "atsaev.khasan@yandex.ru"
         self.telegram = "@atsaev"
-        
+
     def get_tech_stack(self) -> dict:
         return {
-            "languages": ['Python', 'SQL', 'JavaScript'],
+            "languages": ['Python', 'SQL'],
             "frameworks": ['Django', 'FastAPI', 'Flask'],
             "databases": ['PostgreSQL', 'MySQL', 'Redis'],
             "tools": ['Git', 'Docker', 'Nginx']
         }
-    
+
     def current_focus(self) -> str:
         return "Разработка масштабируемых REST API и микросервисов"
 ```
@@ -69,7 +69,6 @@ class BackendDeveloper:
 #### **Языки программирования**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=python&logoColor=white)
 
 
 #### **Фреймворки**
@@ -111,7 +110,6 @@ class BackendDeveloper:
 Python       ████████████████████░░░░  75%
 SQL          ████████░░░░░░░░░░░░░░░░  30%
 Docker       ████████░░░░░░░░░░░░░░░░  25%
-JavaScript   ███░░░░░░░░░░░░░░░░░░░░░  10%
 ```
 <!--END_SECTION:waka-->
 
