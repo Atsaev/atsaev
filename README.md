@@ -5,10 +5,10 @@
 <br/>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=atsaev&label=Просмотры+профиля&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
@@ -27,7 +27,7 @@ class BackendDeveloper:
 
     def get_tech_stack(self) -> dict:
         return {
-            "languages": ['Python', 'SQL'],
+            "languages": ['Python', 'SQL', 'JavaScript'],
             "frameworks": ['Django', 'FastAPI', 'Flask'],
             "databases": ['PostgreSQL', 'MySQL', 'Redis'],
             "tools": ['Git', 'Docker', 'Nginx']
@@ -69,6 +69,7 @@ class BackendDeveloper:
 #### **Языки программирования**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=python&logoColor=white)
 
 
 #### **Фреймворки**
@@ -110,6 +111,7 @@ class BackendDeveloper:
 Python       ████████████████████░░░░  75%
 SQL          ████████░░░░░░░░░░░░░░░░  30%
 Docker       ████████░░░░░░░░░░░░░░░░  25%
+JavaScript   ███░░░░░░░░░░░░░░░░░░░░░  10%
 ```
 <!--END_SECTION:waka-->
 
@@ -157,4 +159,4 @@ Docker       ████████░░░░░░░░░░░░░░�
 
 ---
 
-<!-- Генерировано: 14.08.2025 01:55:28 -->
+<!-- Генерировано: 14.08.2025 02:04:36 -->
