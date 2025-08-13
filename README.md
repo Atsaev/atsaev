@@ -65,28 +65,28 @@ class BackendDeveloper:
 
 <div align="center">
 
-#### **Языки программирования**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-3776AB?style=flat&logo=python&logoColor=white)
+#### **🐍 Языки программирования**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsaev&layout=compact&theme=radical&hide_border=true&langs_count=8&hide_title=true" width="400" />
+</p>
 
+#### **⚡ Уровень навыков**
+<div align="center">
 
-#### **Фреймворки**
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-092E20?style=flat&logo=django&logoColor=white)
+| **Навык** | **Уровень** | **Опыт** |
+|:----------|:------------|:---------|
+| **Python** | ![Python](https://img.shields.io/badge/-Expert-00ff00?style=flat&logo=python&logoColor=white) | 3+ года |
+| **Django** | ![Django](https://img.shields.io/badge/-Advanced-0099ff?style=flat&logo=django&logoColor=white) | 2+ года |
+| **FastAPI** | ![FastAPI](https://img.shields.io/badge/-Advanced-009688?style=flat&logo=fastapi&logoColor=white) | 1.5 года |
+| **Flask** | ![Flask](https://img.shields.io/badge/-Intermediate-ff9900?style=flat&logo=flask&logoColor=white) | 1 год |
+| **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/-Advanced-336791?style=flat&logo=postgresql&logoColor=white) | 2+ года |
 
+</div>
 
-#### **Базы данных**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-336791?style=flat&logo=postgresql&logoColor=white)
-
-
-#### **Инструменты**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-F05032?style=flat&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-F05032?style=flat&logo=git&logoColor=white)
-
+#### **🎨 Технологии**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgresql,mysql,redis,docker,git,nginx&theme=dark" />
+</p>
 
 </div>
 
@@ -94,10 +94,16 @@ class BackendDeveloper:
 
 ### 🎯 **Изучаю сейчас**
 
-- ⚡ **Асинхронное программирование в Python**
-- ⚡ **Микросервисная архитектура**
-- ⚡ **Kubernetes и оркестрация**
-- ⚡ **GraphQL API**
+<div align="center">
+
+| **Технология** | **Прогресс** | **Статус** |
+|:---------------|:-------------|:-----------|
+| **Async Python** | ![Progress](https://progress-bar.dev/75/) | 🟢 Активно |
+| **Microservices** | ![Progress](https://progress-bar.dev/60/) | 🟡 В процессе |
+| **Kubernetes** | ![Progress](https://progress-bar.dev/45/) | 🟡 Изучаю |
+| **GraphQL** | ![Progress](https://progress-bar.dev/30/) | 🔵 Начинаю |
+
+</div>
 
 
 ---
@@ -145,6 +151,81 @@ JavaScript   ███░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
   <p><i>"Лучший код - это тот, который не нужно комментировать"</i> - Robert C. Martin</p>
+</div>
+
+---
+
+### 💡 **Цитата дня** ✨
+
+<div align="center">
+  
+  <!-- Анимированная цитата дня -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=true" alt="Quote of the day" />
+  
+  <br/><br/>
+  
+  <!-- Дополнительная мотивационная цитата -->
+  <details>
+    <summary><b>🎯 Еще больше мотивации</b></summary>
+    <br/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&category=motivation" alt="Motivational quote" />
+    <br/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue&category=programming" alt="Programming wisdom" />
+  </details>
+  
+  <br/>
+  
+  <!-- Интерактивный счетчик -->
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=atsaev&label=Просмотров&color=brightgreen" alt="Profile views" />
+  </div>
+  
+</div>
+
+---
+
+### 🌐 **Language Switcher** 🔄
+
+<div align="center">
+  
+  <!-- Анимированные кнопки переключения языка -->
+  <a href="#ru" title="Русская версия">
+    <img src="https://img.shields.io/badge/🇷🇺_Русский-0096FF?style=for-the-badge&logo=googletranslate&logoColor=white&cacheSeconds=3600" alt="Russian version" />
+  </a>
+  <a href="#en" title="English version coming soon">
+    <img src="https://img.shields.io/badge/🇺🇸_English-FF6B35?style=for-the-badge&logo=googletranslate&logoColor=white&cacheSeconds=3600" alt="English version" />
+  </a>
+
+<br/><br/>
+
+<!-- Таблица с прогрессом перевода -->
+<div align="center">
+
+| **Язык** | **Статус** | **Прогресс** | **Ссылка** |
+|:---------|:-----------|:-------------|:-----------|
+| 🇷🇺 **Русский** | ✅ Активен | ![100%](https://progress-bar.dev/100/?title=100%25&width=80) | [Перейти](https://github.com/atsaev) |
+| 🇺🇸 **English** | 🚧 В разработке | ![75%](https://progress-bar.dev/75/?title=75%25&width=80) | [Скоро будет доступен](https://github.com/atsaev) |
+| 🇪🇸 **Español** | 📋 Планируется | ![0%](https://progress-bar.dev/0/?title=0%25&width=80) | [Запросить](https://github.com/atsaev) |
+
+</div>
+
+<br/>
+
+<!-- Дополнительная информация о языках -->
+<details>
+  <summary><b>🌍 Подробности о языковых версиях</b></summary>
+  <br/>
+  <div align="left">
+  
+  - **🇷🇺 Русская версия** - Полностью локализованный профиль с техническим контентом на русском языке
+  - **🇺🇸 English version** - Полный перевод с адаптацией технической терминологии (в процессе)
+  - **🇪🇸 Spanish version** - Будет добавлена по запросу сообщества
+  
+  </div>
+</details>
+
+<small>🇷🇺 Профиль на русском языке | 🇺🇸 English version coming soon | 💬 Другие языки по запросу</small>
+
 </div>
 
 ---
