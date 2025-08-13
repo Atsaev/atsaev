@@ -53,14 +53,6 @@ class BackendDeveloper:
 
 ---
 
-### 💻 **GitHub Статистика**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsaev&layout=compact&theme=radical&hide_border=true&langs_count=8&title=Мои%20топ%20языки" />
-</div>
-
----
-
 ### 🛠️ **Технологический стек**
 
 <div align="center">
@@ -98,8 +90,8 @@ class BackendDeveloper:
 
 | **Технология** | **Прогресс** | **Статус** |
 |:---------------|:-------------|:-----------|
-| **Async Python** | ![Progress](https://progress-bar.dev/55/?cache_bust=1) | 🟢 Изучаю |
-| **Microservices** | ![Progress](https://progress-bar.dev/30/?cache_bust=1) | 🟡 В процессе |
+| **Async Python** | ![Progress](https://img.shields.io/badge/Progress-35%25-blue) | 🟢 Изучаю |
+| **Microservices** | ![Progress](https://img.shields.io/badge/Progress-25%25-blue) | 🟡 В процессе |
 
 </div>
 
