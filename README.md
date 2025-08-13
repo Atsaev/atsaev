@@ -126,7 +126,7 @@ Docker       ████████░░░░░░░░░░░░░░�
 
 <div align="center">
   <a href="https://atsaev.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Портфолио-00A98F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Резюме-00A98F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
