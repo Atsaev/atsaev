@@ -68,7 +68,6 @@ class BackendDeveloper:
 #### **Языки программирования**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=python&logoColor=white)
 
 
 #### **Фреймворки**
