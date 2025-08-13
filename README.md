@@ -143,14 +143,6 @@ JavaScript   ███░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-### 🏆 **Достижения**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atsaev&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
-</div>
-
----
-
 <div align="center">
   <p><i>"Лучший код - это тот, который не нужно комментировать"</i> - Robert C. Martin</p>
 </div>
