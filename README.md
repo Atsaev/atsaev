@@ -19,7 +19,7 @@
 ```python
 class BackendDeveloper:
     def __init__(self):
-        self.name = "Хасан Ацаев"
+        self.name = "Ацаев Хасан"
         self.role = "Python Backend Developer"
         self.location = "Россия"
         self.email = "atsaev.khasan@yandex.ru"
@@ -75,11 +75,11 @@ class BackendDeveloper:
 
 | **Навык** | **Уровень** | **Опыт** |
 |:----------|:------------|:---------|
-| **Python** | ![Python](https://img.shields.io/badge/-Expert-00ff00?style=flat&logo=python&logoColor=white) | 3+ года |
-| **Django** | ![Django](https://img.shields.io/badge/-Advanced-0099ff?style=flat&logo=django&logoColor=white) | 2+ года |
-| **FastAPI** | ![FastAPI](https://img.shields.io/badge/-Advanced-009688?style=flat&logo=fastapi&logoColor=white) | 1.5 года |
-| **Flask** | ![Flask](https://img.shields.io/badge/-Intermediate-ff9900?style=flat&logo=flask&logoColor=white) | 1 год |
-| **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/-Advanced-336791?style=flat&logo=postgresql&logoColor=white) | 2+ года |
+| **Python** | ![Python](https://img.shields.io/badge/-Intermediate-00ff00?style=flat&logo=python&logoColor=white) | 1+ года |
+| **Django** | ![Django](https://img.shields.io/badge/-Newbie-0099ff?style=flat&logo=django&logoColor=white) | 1+ года |
+| **FastAPI** | ![FastAPI](https://img.shields.io/badge/-Newbie-009688?style=flat&logo=fastapi&logoColor=white) | 3 месяца |
+| **Flask** | ![Flask](https://img.shields.io/badge/-Newbie-ff9900?style=flat&logo=flask&logoColor=white) | 3 месяца |
+| **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/-Newbie-336791?style=flat&logo=postgresql&logoColor=white) | 5 месяцев |
 
 </div>
 
@@ -98,10 +98,8 @@ class BackendDeveloper:
 
 | **Технология** | **Прогресс** | **Статус** |
 |:---------------|:-------------|:-----------|
-| **Async Python** | ![Progress](https://progress-bar.dev/75/) | 🟢 Активно |
+| **Async Python** | ![Progress](https://progress-bar.dev/75/) | 🟢 Изучаю |
 | **Microservices** | ![Progress](https://progress-bar.dev/60/) | 🟡 В процессе |
-| **Kubernetes** | ![Progress](https://progress-bar.dev/45/) | 🟡 Изучаю |
-| **GraphQL** | ![Progress](https://progress-bar.dev/30/) | 🔵 Начинаю |
 
 </div>
 
@@ -115,7 +113,6 @@ class BackendDeveloper:
 Python       ████████████████████░░░░  75%
 SQL          ████████░░░░░░░░░░░░░░░░  30%
 Docker       ████████░░░░░░░░░░░░░░░░  25%
-JavaScript   ███░░░░░░░░░░░░░░░░░░░░░  10%
 ```
 <!--END_SECTION:waka-->
 
@@ -158,12 +155,12 @@ JavaScript   ███░░░░░░░░░░░░░░░░░░░�
 ### 💡 **Цитата дня** ✨
 
 <div align="center">
-  
+
   <!-- Анимированная цитата дня -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=true" alt="Quote of the day" />
-  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=true" alt="Цитата дня" />
+
   <br/><br/>
-  
+
   <!-- Дополнительная мотивационная цитата -->
   <details>
     <summary><b>🎯 Еще больше мотивации</b></summary>
@@ -172,62 +169,6 @@ JavaScript   ███░░░░░░░░░░░░░░░░░░░�
     <br/>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue&category=programming" alt="Programming wisdom" />
   </details>
-  
+
   <br/>
-  
-  <!-- Интерактивный счетчик -->
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=atsaev&label=Просмотров&color=brightgreen" alt="Profile views" />
-  </div>
-  
 </div>
-
----
-
-### 🌐 **Language Switcher** 🔄
-
-<div align="center">
-  
-  <!-- Анимированные кнопки переключения языка -->
-  <a href="#ru" title="Русская версия">
-    <img src="https://img.shields.io/badge/🇷🇺_Русский-0096FF?style=for-the-badge&logo=googletranslate&logoColor=white&cacheSeconds=3600" alt="Russian version" />
-  </a>
-  <a href="#en" title="English version coming soon">
-    <img src="https://img.shields.io/badge/🇺🇸_English-FF6B35?style=for-the-badge&logo=googletranslate&logoColor=white&cacheSeconds=3600" alt="English version" />
-  </a>
-
-<br/><br/>
-
-<!-- Таблица с прогрессом перевода -->
-<div align="center">
-
-| **Язык** | **Статус** | **Прогресс** | **Ссылка** |
-|:---------|:-----------|:-------------|:-----------|
-| 🇷🇺 **Русский** | ✅ Активен | ![100%](https://progress-bar.dev/100/?title=100%25&width=80) | [Перейти](https://github.com/atsaev) |
-| 🇺🇸 **English** | 🚧 В разработке | ![75%](https://progress-bar.dev/75/?title=75%25&width=80) | [Скоро будет доступен](https://github.com/atsaev) |
-| 🇪🇸 **Español** | 📋 Планируется | ![0%](https://progress-bar.dev/0/?title=0%25&width=80) | [Запросить](https://github.com/atsaev) |
-
-</div>
-
-<br/>
-
-<!-- Дополнительная информация о языках -->
-<details>
-  <summary><b>🌍 Подробности о языковых версиях</b></summary>
-  <br/>
-  <div align="left">
-  
-  - **🇷🇺 Русская версия** - Полностью локализованный профиль с техническим контентом на русском языке
-  - **🇺🇸 English version** - Полный перевод с адаптацией технической терминологии (в процессе)
-  - **🇪🇸 Spanish version** - Будет добавлена по запросу сообщества
-  
-  </div>
-</details>
-
-<small>🇷🇺 Профиль на русском языке | 🇺🇸 English version coming soon | 💬 Другие языки по запросу</small>
-
-</div>
-
----
-
-<!-- Генерировано: 14.08.2025 02:04:36 -->
