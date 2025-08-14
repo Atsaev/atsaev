@@ -27,7 +27,7 @@ class BackendDeveloper:
 
     def get_tech_stack(self) -> dict:
         return {
-            "languages": ['Python', 'SQL', 'JavaScript'],
+            "languages": ['Python', 'SQL'],
             "frameworks": ['Django', 'FastAPI', 'Flask'],
             "databases": ['PostgreSQL', 'MySQL', 'Redis'],
             "tools": ['Git', 'Docker', 'Nginx']
