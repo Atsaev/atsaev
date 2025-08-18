@@ -8,8 +8,9 @@
 
 <!-- 🧢 Верхний баннер -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Khasan%20Atsaev%20%7C%20Python%20Backend&fontAlign=50&fontAlignY=35&color=0:0ea5e9,100:22c55e&fontColor=ffffff&desc=REST%20APIs%20%26%20Microservices&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Хасан+Ацаев&fontAlign=50&fontAlignY=40&color=0:0ea5e9,100:22c55e&fontColor=ffffff&desc=Python+Backend+Developer&descAlign=50&descAlignY=65" />
 </div>
+
 
 <!-- ✍️ Анимированная строка -->
 <div align="center">
