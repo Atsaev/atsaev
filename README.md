@@ -1,20 +1,24 @@
+<!-- 🌍 Переключатель языка -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Привет+👋;Я+Python+Backend+Developer;Добро+пожаловать!" alt="Typing SVG" />
+
+[![RU](https://img.shields.io/badge/🇷🇺%20Русский-1f6feb?style=for-the-badge)](README.md)
+[![EN](https://img.shields.io/badge/🇬🇧%20English-e34c26?style=for-the-badge)](README.en.md)
+
 </div>
 
-<br/>
-
+<!-- 🧢 Верхний баннер -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Khasan%20Atsaev%20%7C%20Python%20Backend&fontAlign=50&fontAlignY=35&color=0:0ea5e9,100:22c55e&fontColor=ffffff&desc=REST%20APIs%20%26%20Microservices&descAlign=50&descAlignY=60" />
+</div>
+
+<!-- ✍️ Анимированная строка -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&width=800&lines=Привет%20👋;Я%20Python%20Backend%20Developer;Добро%20пожаловать!" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🐍 **Обо мне**
+## 🐍 Обо мне
 
 ```python
 class BackendDeveloper:
@@ -27,10 +31,10 @@ class BackendDeveloper:
 
     def get_tech_stack(self) -> dict:
         return {
-            "languages": ['Python', 'SQL'],
-            "frameworks": ['Django', 'FastAPI', 'Flask'],
-            "databases": ['PostgreSQL', 'MySQL', 'Redis'],
-            "tools": ['Git', 'Docker', 'Nginx']
+            "languages": ["Python", "SQL"],
+            "frameworks": ["Django", "FastAPI", "Flask"],
+            "databases": ["PostgreSQL", "MySQL", "Redis"],
+            "tools": ["Git", "Docker", "Nginx"]
         }
 
     def current_focus(self) -> str:
@@ -39,128 +43,116 @@ class BackendDeveloper:
 
 ---
 
-### 🚀 **Текущие проекты**
+## 🚀 Текущие проекты
 
 <div align="center">
 
-| **Проект** | **Описание** | **Технологии** |
-|:-----------|:-------------|:---------------|
-| **Django API** | RESTful API для веб-приложений | Django, PostgreSQL, Redis |
-| **FastAPI Service** | Высокопроизводительный микросервис | FastAPI, SQLAlchemy, Docker |
-| **Flask Admin** | Административная панель | Flask, Jinja2, Bootstrap |
+| **Проект** | **Описание** | **Технологии** | **Ссылки** |
+|:--|:--|:--|:--|
+| **Django API** | RESTful API для веб-приложений | Django, PostgreSQL, Redis | [Repo](https://github.com/atsaev/django-api) · Demo |
+| **FastAPI Service** | Высокопроизводительный микросервис | FastAPI, SQLAlchemy, Docker | [Repo](https://github.com/atsaev/fastapi-service) |
+| **Flask Admin** | Админ-панель | Flask, Jinja2, Bootstrap | [Repo](https://github.com/atsaev/flask-admin) |
 
 </div>
 
 ---
 
-### 🛠️ **Технологический стек**
+## 🛠️ Технологический стек
 
 <div align="center">
+  
+### 🐍 Языки и инструменты
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgresql,mysql,redis,sqlalchemy,docker,git,nginx,linux&theme=dark" />
 
-#### **🐍 Языки программирования**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsaev&layout=compact&theme=radical&hide_border=true&langs_count=8&hide_title=true" width="400" />
-</p>
+</div>
 
-#### **⚡ Уровень навыков**
+### ⚡ Уровень навыков
+
 <div align="center">
 
 | **Навык** | **Уровень** | **Опыт** |
-|:----------|:------------|:---------|
-| **Python** | ![Python](https://img.shields.io/badge/-Intermediate-00ff00?style=flat&logo=python&logoColor=white) | 1+ года |
-| **Django** | ![Django](https://img.shields.io/badge/-Newbie-0099ff?style=flat&logo=django&logoColor=white) | 1+ года |
-| **FastAPI** | ![FastAPI](https://img.shields.io/badge/-Newbie-009688?style=flat&logo=fastapi&logoColor=white) | 3 месяца |
-| **Flask** | ![Flask](https://img.shields.io/badge/-Newbie-ff9900?style=flat&logo=flask&logoColor=white) | 3 месяца |
-| **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/-Newbie-336791?style=flat&logo=postgresql&logoColor=white) | 5 месяцев |
-
-</div>
-
-#### **🎨 Технологии**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgresql,mysql,redis,docker,git,nginx&theme=dark" />
-</p>
+|:--|:--|:--|
+| Python | Intermediate | 1+ года |
+| Django | Junior | 1+ года |
+| FastAPI | Junior | 3 месяца |
+| Flask | Junior | 3 месяца |
+| PostgreSQL | Junior | 5 месяцев |
 
 </div>
 
 ---
 
-### 🎯 **Изучаю сейчас**
+## 🎯 Изучаю сейчас
 
 <div align="center">
 
 | **Технология** | **Прогресс** | **Статус** |
-|:---------------|:-------------|:-----------|
-| **Async Python** | ![Прогресс](https://img.shields.io/badge/Progress-35%25-blue) | 🟢 Изучаю |
-| **Microservices** | ![Прогресс](https://img.shields.io/badge/Progress-25%25-blue) | 🟡 В процессе |
+|:--|:--:|:--|
+| Async Python | ![35%](https://img.shields.io/badge/Progress-35%25-1f6feb) | 🟢 Изучаю |
+| Microservices | ![25%](https://img.shields.io/badge/Progress-25%25-1f6feb) | 🟡 В процессе |
+| Тестирование (pytest) | ![20%](https://img.shields.io/badge/Progress-20%25-1f6feb) | 🟡 В процессе |
 
 </div>
 
+---
+
+## 📊 Статистика
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atsaev&show_icons=true&theme=radical&hide_border=true&border_radius=14" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=atsaev&theme=radical&hide_border=true&border_radius=14" height="165" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsaev&layout=compact&theme=radical&hide_border=true&langs_count=8&hide_title=true" width="400" />
+</div>
 
 ---
 
-### 📈 **Активность за неделю**
+## 📈 Активность за неделю
 
 <!--START_SECTION:waka-->
 ```text
-Python       ████████████████████░░░░  75%
-SQL          ████████░░░░░░░░░░░░░░░░  30%
-Docker       ████████░░░░░░░░░░░░░░░░  25%
+Python       █████████████████████░░   70%
+SQL          ████████░░░░░░░░░░░░░░░   20%
+Docker       █████░░░░░░░░░░░░░░░░░░   10%
 ```
 <!--END_SECTION:waka-->
 
 ---
 
-### 📫 **Контакты**
+## 📫 Контакты
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/atsaev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atsaev.khasan@yandex.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atsaev)
+[![Portfolio](https://img.shields.io/badge/Резюме-00A98F?style=for-the-badge&logo=githubpages&logoColor=white)](https://atsaev.github.io/portfolio/)
 
 </div>
 
 ---
 
-### 🌐 **GitHub Страницы**
+## 💡 Цитата дня
 
 <div align="center">
-  <a href="https://atsaev.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Резюме-00A98F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=true" alt="Quote of the day" />
+</div>
+
+<div align="center">
+  <p><i>«Лучший код — тот, который не нужно комментировать»</i> — Robert C. Martin</p>
 </div>
 
 ---
 
+## 👀 Счётчик посещений
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+  <img src="https://komarev.com/ghpvc/?username=atsaev&label=Visitors&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
 </div>
 
 ---
 
+<!-- 🌊 Нижний баннер -->
 <div align="center">
-  <p><i>"Лучший код - это тот, который не нужно комментировать"</i> - Robert C. Martin</p>
-</div>
-
----
-
-### 💡 **Цитата дня** ✨
-
-<div align="center">
-
-  <!-- Анимированная цитата дня -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=true" alt="Цитата дня" />
-
-  <br/><br/>
-
-  <!-- Дополнительная мотивационная цитата -->
-  <details>
-    <summary><b>🎯 Еще больше мотивации</b></summary>
-    <br/>
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&category=motivation" alt="Motivational quote" />
-    <br/>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue&category=programming" alt="Programming wisdom" />
-  </details>
-
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer" />
 </div>
