@@ -6,7 +6,7 @@
 
 <!-- ✍️ Анимированная строка -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&width=800&lines=Привет%20👋;Я%20Python%20Backend%20Developer;Добро%20пожаловать!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&width=800&lines=Привет%20👋;Я%20Python%20Backend%20Developer" alt="Typing SVG" />
 </div>
 
 ---
