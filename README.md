@@ -1,11 +1,3 @@
-<!-- 🌍 Переключатель языка -->
-<div align="center">
-
-[![RU](https://img.shields.io/badge/🇷🇺%20Русский-1f6feb?style=for-the-badge)](README.md)
-[![EN](https://img.shields.io/badge/🇬🇧%20English-e34c26?style=for-the-badge)](README.en.md)
-
-</div>
-
 <!-- 🧢 Верхний баннер -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Хасан+Ацаев&fontAlign=50&fontAlignY=40&color=0:0ea5e9,100:22c55e&fontColor=ffffff&desc=Python+Backend+Developer&descAlign=50&descAlignY=65" />
