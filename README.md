@@ -35,11 +35,12 @@ class BackendDeveloper:
             "languages": ["Python", "SQL"],
             "frameworks": ["Django", "FastAPI", "Flask"],
             "databases": ["PostgreSQL", "MySQL", "Redis"],
+            "ai": ["LLM Integration", "Multi-Agent Systems"],
             "tools": ["Git", "Docker", "Nginx"]
         }
 
     def current_focus(self) -> str:
-        return "Разработка масштабируемых REST API и микросервисов"
+        return "AI Security — мультиагентные системы и автоматизация анализа уязвимостей"
 ```
 
 ---
@@ -50,9 +51,9 @@ class BackendDeveloper:
 
 | **Проект** | **Описание** | **Технологии** | **Ссылки** |
 |:--|:--|:--|:--|
-| **Django API** | RESTful API для веб-приложений | Django, PostgreSQL, Redis | [Repo](https://github.com/atsaev/django-api) · Demo |
-| **FastAPI Service** | Высокопроизводительный микросервис | FastAPI, SQLAlchemy, Docker | [Repo](https://github.com/atsaev/fastapi-service) |
-| **Flask Admin** | Админ-панель | Flask, Jinja2, Bootstrap | [Repo](https://github.com/atsaev/flask-admin) |
+| **Security Pipeline** | Автоматический сбор CVE уязвимостей из NVD API | FastAPI, SQLAlchemy, Pydantic | [Repo](https://github.com/Atsaev/security-pipeline) |
+| **CVE Agent** | Мультиагентный анализатор уязвимостей на LangGraph | LangGraph, DeepSeek, FastAPI | [Repo](https://github.com/Atsaev/cve-agent) · [Demo](http://89.125.91.14:8002/docs) |
+| **Smart Fuzzer** | LLM фаззер для поиска уязвимостей в Python коде | DeepSeek, FastAPI, Pydantic | [Repo](https://github.com/Atsaev/smart-fuzzer) · [Demo](http://89.125.91.14:8003/docs) |
 
 </div>
 
@@ -67,33 +68,14 @@ class BackendDeveloper:
 
 </div>
 
-### ⚡ Уровень навыков
-
-<div align="center">
-
-| **Навык** | **Уровень** | **Опыт** |
-|:--|:--|:--|
-| Python | Intermediate | 1+ года |
-| Django | Junior | 1+ года |
-| FastAPI | Junior | 3 месяца |
-| Flask | Junior | 3 месяца |
-| PostgreSQL | Junior | 5 месяцев |
-
-</div>
-
 ---
 
 ## 🎯 Изучаю сейчас
 
-<div align="center">
-
-| **Технология** | **Прогресс** | **Статус** |
-|:--|:--:|:--|
-| Async Python | ![35%](https://img.shields.io/badge/Progress-35%25-1f6feb) | 🟢 Изучаю |
-| Microservices | ![25%](https://img.shields.io/badge/Progress-25%25-1f6feb) | 🟡 В процессе |
-| Тестирование (pytest) | ![20%](https://img.shields.io/badge/Progress-20%25-1f6feb) | 🟡 В процессе |
-
-</div>
+- LangGraph & Multi-Agent Systems
+- AI Security & LLM Integration
+- Async Python
+- pytest & тестирование
 
 ---
 
@@ -108,18 +90,6 @@ class BackendDeveloper:
 
 ---
 
-## 📈 Активность за неделю
-
-<!--START_SECTION:waka-->
-```text
-Python       █████████████████████░░   70%
-SQL          ████████░░░░░░░░░░░░░░░   20%
-Docker       █████░░░░░░░░░░░░░░░░░░   10%
-```
-<!--END_SECTION:waka-->
-
----
-
 ## 📫 Контакты
 
 <div align="center">
@@ -129,26 +99,6 @@ Docker       █████░░░░░░░░░░░░░░░░░�
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atsaev)
 [![Portfolio](https://img.shields.io/badge/Резюме-00A98F?style=for-the-badge&logo=githubpages&logoColor=white)](https://atsaev.github.io/portfolio/)
 
-</div>
-
----
-
-## 💡 Цитата дня
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=true" alt="Quote of the day" />
-</div>
-
-<div align="center">
-  <p><i>«Лучший код — тот, который не нужно комментировать»</i> — Robert C. Martin</p>
-</div>
-
----
-
-## 👀 Счётчик посещений
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=atsaev&label=Visitors&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
 </div>
 
 ---
