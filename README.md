@@ -56,7 +56,7 @@ class BackendDeveloper:
 <div align="center">
   
 ### 🐍 Языки и инструменты
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgresql,mysql,redis,sqlalchemy,docker,git,nginx,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgresql,sqlalchemy,docker,git&theme=dark" />
 
 </div>
 
