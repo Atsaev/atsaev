@@ -89,7 +89,6 @@ class BackendDeveloper:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/atsayev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atsaev.khasan@yandex.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atsaev)
-[![Portfolio](https://img.shields.io/badge/Резюме-00A98F?style=for-the-badge&logo=githubpages&logoColor=white)](https://atsaev.github.io/portfolio/)
 
 </div>
 
