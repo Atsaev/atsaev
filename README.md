@@ -44,8 +44,8 @@ class BackendDeveloper:
 | **Проект** | **Описание** | **Технологии** | **Ссылки** |
 |:--|:--|:--|:--|
 | **Security Pipeline** | Автоматический сбор CVE уязвимостей из NVD API | FastAPI, SQLAlchemy, Pydantic | [Repo](https://github.com/Atsaev/security-pipeline) |
-| **CVE Agent** | Мультиагентный анализатор уязвимостей на LangGraph | LangGraph, DeepSeek, FastAPI | [Repo](https://github.com/Atsaev/cve-agent) · [Demo](http://89.125.91.14:8002/docs) |
-| **Smart Fuzzer** | LLM фаззер для поиска уязвимостей в Python коде | DeepSeek, FastAPI, Pydantic | [Repo](https://github.com/Atsaev/smart-fuzzer) · [Demo](http://89.125.91.14:8003/docs) |
+| **CVE Agent** | Мультиагентный анализатор уязвимостей на LangGraph | LangGraph, DeepSeek, FastAPI | [Repo](https://github.com/Atsaev/cve-agent) · [Demo](https://atsaev-dev.ru/cve/docs) |
+| **Smart Fuzzer** | LLM фаззер для поиска уязвимостей в Python коде | DeepSeek, FastAPI, Pydantic | [Repo](https://github.com/Atsaev/smart-fuzzer) · [Demo](https://atsaev-dev.ru/fuzzer/docs) |
 | **Sales Assistant** | Desktop-приложение для анализа телефонных переговоров в реальном времени | PySide6, Whisper, Ollama, YAML | [Repo](https://github.com/Atsaev/sales_assistant) |
 
 </div>
